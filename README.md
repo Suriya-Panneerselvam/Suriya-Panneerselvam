@@ -1,9 +1,10 @@
 <h1 align="center">Hi 👋, I'm Suriya</h1>
 <img align="right" alt="coding" width="400" src="https://giphy.com/gifs/art-animation-trip-xTiTnwtxXU2SbrTsmA">
+<img align="right" alt="code" width="400" src="https://github.com/Suriya-Panneerselvam/Suriya-Panneerselvam/blob/main/iron%20man%20marvel%20GIF.gif
+">
 -  I’m currently learning Data Science
 
 -  How to reach me **suriya._.81**
-
 -  Know about my experiences [https://www.canva.com/design/DAGRuk0xRWU/et8pK0GaOEr_BnlEvdi_Kw/edit](https://www.canva.com/design/DAGRuk0xRWU/et8pK0GaOEr_BnlEvdi_Kw/edit)
 
 <h3 align="left">Connect with me:</h3>
