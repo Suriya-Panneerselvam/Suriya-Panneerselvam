@@ -1,28 +1,24 @@
-<h1 align="center">Hey Everyone 👋, I'm Aditya Jaiswal</h1>
+<h1 align="center">Hey Everyone 👋, I'm Suriya</h1>
 
 <div align="center">
-  <img src="https://github.com/jaiswaladi246/jaiswaladi246/blob/main/Banner.png" alt="DevOpsShack Banner">
+  <img src="" alt="DevOpsShack Banner">
 </div>
 
-<h3 align="center">A passionate DevOps Engineer from India. I work in the Corporate IT Sector and in my free time I make YouTube videos at <a href="https://www.youtube.com/@devopsshack" target="_blank">DevOpsShack</a></h3>
+<h3 align="center">A passionate DevOps Engineer from India. I work in the Corporate IT Sector and in my free time I make YouTube videos at </h3>
 
 <p align="center">
   <a href="https://github.com/jaiswaladi246">
     <img src="https://img.shields.io/github/followers/jaiswaladi246?label=Follow&style=social" />
   </a>
-  <a href="https://www.youtube.com/@devopsshack">
-    <img src="https://img.shields.io/youtube/channel/subscribers/UC1XLb_DoX2eNWGKjkh2epwA?style=social" />
-  </a>
+ 
   <a href="https://linkedin.com/in/adityajaiswal7">
     <img src="https://img.shields.io/badge/LinkedIn-Aditya%20Jaiswal-blue?logo=linkedin&style=flat-square" />
   </a>
 </p>
 
-<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
+<img align="right" alt="Coding" width="400" src="https://github.com/Suriya-Panneerselvam/Suriya-Panneerselvam/blob/main/iron%20man%20marvel%20GIF.gif">
 
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=jaiswaladi246&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
-</p>
+
 
 - 👨‍💻 All of my projects are available at [https://github.com/jaiswaladi246](https://github.com/jaiswaladi246)  
 - 💬 Ask me about **DevOps & Cloud DevOps**  
