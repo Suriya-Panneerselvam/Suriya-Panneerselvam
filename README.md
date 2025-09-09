@@ -16,7 +16,7 @@
   </a>
 </p>
 
-<img align="right" alt="Coding" width="400" src="https://github.com/Suriya-Panneerselvam/Suriya-Panneerselvam/blob/main/iron%20man%20marvel%20GIF.gif">
+<img align="right" alt="Coding" width="400" src="https://github.com/Suriya-Panneerselvam/Suriya-Panneerselvam/blob/main/Iron%20Man%20GIF.gif">
 
 
 
