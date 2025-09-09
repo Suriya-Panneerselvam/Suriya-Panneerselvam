@@ -48,4 +48,4 @@
 ---
 
 ### 👨‍💼 About Me
-<h3 align="center">B.Tech Arificial Intelligence & Data Science Final year Student . Intrested in the domain of Designing & Data Science  &  Open to Collaborationsp</h3>
+<h3 align="center">B.Tech Arificial Intelligence & Data Science Final year Student . Intrested in the domain of Designing & Data Science  &  Open to Collaboration</h3>
