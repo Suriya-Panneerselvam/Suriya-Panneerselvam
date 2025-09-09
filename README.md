@@ -4,7 +4,7 @@
   <img src="" alt="DevOpsShack Banner">
 </div>
 
-<h3 align="center">A passionate Designing & Data Scientist from India. Currently studying my Bachelor degree in Artificial Intellegence & Data Science and in my free time I would like to Draw some portraits & Paintings </h3>
+<h3 align="center">A passionate Designer & Data Scientist from India. Currently studying my Bachelor degree in Artificial Intellegence & Data Science and in my free time I would like to Draw some portraits & Paintings </h3>
 
 <p align="center">
   <a href="https://github.com/jaiswaladi246">
