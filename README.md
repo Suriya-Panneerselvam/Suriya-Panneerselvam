@@ -30,8 +30,6 @@
 <p align="left">
   <a href="https://www.instagram.com/suriya._.81/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" /></a>
   <a href="https://www.linkedin.com/in/suriya-panneerselvam-14b8322a1/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
-  
-
 </p>
 
 ---
@@ -41,8 +39,9 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40" height="40"/>
-
 </p>
 
-### 👨‍💼 About Me & 🤝 Open to Collaborations
+---
 
+### 👨‍💼 About Me
+<h3 align="center">B.Tech Arificial Intelligence & Data Science Final year Student . Intrested in the domain of Designing & Data Science  &  Open to Collaborationsp</h3>
