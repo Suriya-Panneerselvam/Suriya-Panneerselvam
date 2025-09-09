@@ -11,7 +11,7 @@
     <img src="https://img.shields.io/github/followers/jaiswaladi246?label=Follow&style=social" />
   </a>
  
-  <a href="https://linkedin.com/in/adityajaiswal7">
+  <a href="https://www.linkedin.com/in/suriya-panneerselvam-14b8322a1/">
     <img src="" />
   </a>
 </p>
@@ -28,8 +28,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  <a href="https://linkedin.com/in/adityajaiswal7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
-  <a href="https://instagram.com/devopsshack" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" /></a>
+  <a href="https://www.instagram.com/suriya._.81/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" /></a>
+  <a href="https://www.linkedin.com/in/suriya-panneerselvam-14b8322a1/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
+  
 
 </p>
 
