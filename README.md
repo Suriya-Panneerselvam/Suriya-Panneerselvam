@@ -4,7 +4,7 @@
   <img src="" alt="DevOpsShack Banner">
 </div>
 
-<h3 align="center">A passionate DevOps Engineer from India. I work in the Corporate IT Sector and in my free time I make YouTube videos at </h3>
+<h3 align="center">A passionate Designing & Data Scientist from India. Currently studying my Bachelor degree in Artificial Intellegence & Data Science and in my free time I would like to Draw some portraits & Paintings </h3>
 
 <p align="center">
   <a href="https://github.com/jaiswaladi246">
@@ -12,7 +12,7 @@
   </a>
  
   <a href="https://linkedin.com/in/adityajaiswal7">
-    <img src="https://img.shields.io/badge/LinkedIn-Aditya%20Jaiswal-blue?logo=linkedin&style=flat-square" />
+    <img src="" />
   </a>
 </p>
 
