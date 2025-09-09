@@ -7,7 +7,7 @@
 <h3 align="center">A passionate Designer & Data Scientist from India. Currently studying my Bachelor degree in Artificial Intellegence & Data Science and in my free time I would like to Draw some portraits & Paintings </h3>
 
 <p align="center">
-  <a href="https://github.com/jaiswaladi246">
+  <a href="https://github.com/Suriya-Panneerselvam">
     <img src="https://img.shields.io/github/followers/jaiswaladi246?label=Follow&style=social" />
   </a>
  
@@ -20,9 +20,9 @@
 
 
 
-- 👨‍💻 All of my projects are available at [https://github.com/jaiswaladi246](https://github.com/jaiswaladi246)  
-- 💬 Ask me about **DevOps & Cloud DevOps**  
-- 📫 How to reach me **office@devopsshack.com**
+- 👨‍💻 All of my projects are available at [https://github.com/Suriya-Panneerselvam](https://github.com/Suriya-Panneerselvam)  
+- 💬 Ask me about **Java , Python & Machine Learning**  
+- 📫 How to reach me **suriyapanneerselvam12015@gmail.com**
 
 ---
 
