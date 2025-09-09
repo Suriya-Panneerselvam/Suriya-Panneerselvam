@@ -1,7 +1,7 @@
 <h1 align="center">Hey Everyone 👋, I'm Suriya</h1>
 
 <div align="center">
-  <img src="" alt="DevOpsShack Banner">
+  <img src="" alt="Banner">
 </div>
 
 <h3 align="center">A passionate Designer & Data Scientist from India. Currently studying my Bachelor degree in Artificial Intellegence & Data Science and in my free time I would like to Draw some portraits & Paintings </h3>
