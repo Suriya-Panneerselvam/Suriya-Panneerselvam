@@ -6,19 +6,10 @@
 
 <h3 align="center">A passionate Designer & Data Scientist from India. Currently studying my Bachelor degree in Artificial Intellegence & Data Science and in my free time I would like to Draw some portraits & Paintings </h3>
 
-<p align="center">
-  <a href="https://github.com/Suriya-Panneerselvam">
-    <img src="https://img.shields.io/github/followers/jaiswaladi246?label=Follow&style=social" />
-  </a>
- 
-  <a href="https://www.linkedin.com/in/suriya-panneerselvam-14b8322a1/">
-    <img src="" />
-  </a>
-</p>
 
 <img align="right" alt="Coding" width="400" src="https://github.com/Suriya-Panneerselvam/Suriya-Panneerselvam/blob/main/Iron%20Man%20GIF.gif">
 
-
+---
 
 - 👨‍💻 All of my projects are available at [https://github.com/Suriya-Panneerselvam](https://github.com/Suriya-Panneerselvam)  
 - 💬 Ask me about **Java , Python & Machine Learning**  
