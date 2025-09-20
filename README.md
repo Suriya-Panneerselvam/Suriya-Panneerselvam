@@ -51,9 +51,6 @@
   <img alt="github-snake" src="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
 </picture>
 
-<!-- GitHub Stats Card -->
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ARUNNG2004&show_icons=true&locale=en&theme=tokyonight" alt="ARUNNG2004" /></p>
-
 ---
 
 ### 👨‍💼 About Me
