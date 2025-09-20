@@ -4,7 +4,7 @@
   <img src="https://github.com/Suriya-Panneerselvam/Suriya-Panneerselvam/blob/main/Black%20Flatlay%20Photo%20Motivational%20Finance%20Quote%20Facebook%20Cover.png" alt="Banner">
 </div>
 
-<h3 align="center">A passionate Designer & Data Scientist from India. Currently studying my Bachelor degree in Artificial Intellegence & Data Science and in my free time I would like to Draw some portraits & Paintings </h3>
+<h3 align="center">A passionate Designer & Data Scientist from India. Currently studying my Bachelor degree in Artificial Intelligence & Data Science and in my free time I would like to Draw some portraits & Paintings </h3>
 
 
 <img align="right" alt="Coding" width="400" src="https://github.com/Suriya-Panneerselvam/Suriya-Panneerselvam/blob/main/Iron%20Man%20GIF.gif">
